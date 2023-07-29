@@ -22,6 +22,7 @@ public class CustomerOrderTest {
     @Spy
     private DinnerWaiter dinnerWaiter;
 
+    // 上面那两个对象没有直接用到，只是作为customerOrder的属性注入！！
     @InjectMocks
     private CustomerOrder customerOrder;
 

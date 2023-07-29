@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="728fa7ad-a636-42c3-a4bb-13c4c42ca4d8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/siegfried.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\codes\mockito-demo\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\MyRepo" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2TDy58JmyV6kyT0ERcGv7idE7XY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/argument-captor/pom.xml" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BookingManagerTest.addReservation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="argument-captor" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BookingManagerTest" />
+      <option name="METHOD_NAME" value="addReservation" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BookingManagerTest.addReservation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="728fa7ad-a636-42c3-a4bb-13c4c42ca4d8" name="Default Changelist" comment="" />
+      <created>1690591759249</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690591759249</updated>
+      <workItem from="1690591760558" duration="2157000" />
+      <workItem from="1690593958651" duration="2509000" />
+      <workItem from="1690599742699" duration="1941000" />
+    </task>
+    <task id="LOCAL-00001" summary="addition">
+      <created>1690603373178</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1690603373178</updated>
+    </task>
+    <task id="LOCAL-00002" summary="addition">
+      <created>1690603414815</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1690603414815</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="addition" />
+    <option name="LAST_COMMIT_MESSAGE" value="addition" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2472" y="177" key="#Project_Structure" timestamp="1690592170237">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="2472" y="177" key="#Project_Structure/0.0.1280.672/1920.0.1920.1032@1920.0.1920.1032" timestamp="1690592170237" />
+    <state x="2685" y="234" key="#com.intellij.ide.util.MemberChooser" timestamp="1690592494355">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="2685" y="234" key="#com.intellij.ide.util.MemberChooser/0.0.1280.672/1920.0.1920.1032@1920.0.1920.1032" timestamp="1690592494355" />
+    <state x="2431" y="113" key="CommitChangelistDialog2" timestamp="1690603414002">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="2431" y="113" key="CommitChangelistDialog2/0.0.1280.672/1920.0.1920.1032@1920.0.1920.1032" timestamp="1690603414002" />
+    <state x="2299" y="230" key="DiffContextDialog" timestamp="1690603342244">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="2299" y="230" key="DiffContextDialog/0.0.1280.672/1920.0.1920.1032@1920.0.1920.1032" timestamp="1690603342244" />
+    <state x="3000" y="302" key="FileChooserDialogImpl" timestamp="1690603783638">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="3000" y="302" key="FileChooserDialogImpl/0.0.1280.672/1920.0.1920.1032@1920.0.1920.1032" timestamp="1690603783638" />
+    <state width="1877" height="182" key="GridCell.Tab.0.bottom" timestamp="1690603795645">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="182" key="GridCell.Tab.0.bottom/0.0.1280.672/1920.0.1920.1032@1920.0.1920.1032" timestamp="1690603795645" />
+    <state width="1877" height="182" key="GridCell.Tab.0.center" timestamp="1690603795645">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="182" key="GridCell.Tab.0.center/0.0.1280.672/1920.0.1920.1032@1920.0.1920.1032" timestamp="1690603795645" />
+    <state width="1877" height="182" key="GridCell.Tab.0.left" timestamp="1690603795645">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="182" key="GridCell.Tab.0.left/0.0.1280.672/1920.0.1920.1032@1920.0.1920.1032" timestamp="1690603795645" />
+    <state width="1877" height="182" key="GridCell.Tab.0.right" timestamp="1690603795645">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="182" key="GridCell.Tab.0.right/0.0.1280.672/1920.0.1920.1032@1920.0.1920.1032" timestamp="1690603795645" />
+    <state x="2360" y="93" key="SettingsEditor" timestamp="1690603585633">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="2360" y="93" key="SettingsEditor/0.0.1280.672/1920.0.1920.1032@1920.0.1920.1032" timestamp="1690603585633" />
+    <state x="2472" y="251" key="Vcs.Push.Dialog.v2" timestamp="1690603422174">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="2472" y="251" key="Vcs.Push.Dialog.v2/0.0.1280.672/1920.0.1920.1032@1920.0.1920.1032" timestamp="1690603422174" />
+    <state x="2651" y="233" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1690592619686">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="2651" y="233" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.672/1920.0.1920.1032@1920.0.1920.1032" timestamp="1690592619686" />
+    <state x="2254" y="219" key="new project wizard" timestamp="1690592067218">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="2254" y="219" key="new project wizard/0.0.1280.672/1920.0.1920.1032@1920.0.1920.1032" timestamp="1690592067218" />
+  </component>
+</project>

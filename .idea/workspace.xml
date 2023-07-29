@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="728fa7ad-a636-42c3-a4bb-13c4c42ca4d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/siegfried.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +44,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2TDy58JmyV6kyT0ERcGv7idE7XY" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -107,6 +104,7 @@
       <workItem from="1690591760558" duration="2157000" />
       <workItem from="1690593958651" duration="2509000" />
       <workItem from="1690599742699" duration="2245000" />
+      <workItem from="1690604153083" duration="240000" />
     </task>
     <task id="LOCAL-00001" summary="addition">
       <created>1690603373178</created>
@@ -122,13 +120,21 @@
       <option name="project" value="LOCAL" />
       <updated>1690603414815</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="addition">
+      <created>1690604360585</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1690604360585</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge branch 'master' of github.com:SiegfriedGY/mockito-demo&#10;&#10;# Conflicts:&#10;#&#9;argument-captor/target/test-classes/BookingManagerTest.class" />
     <MESSAGE value="addition" />
     <option name="LAST_COMMIT_MESSAGE" value="addition" />
   </component>
@@ -141,14 +147,14 @@
       <screen x="1920" y="0" width="1920" height="1032" />
     </state>
     <state x="2685" y="234" key="#com.intellij.ide.util.MemberChooser/0.0.1280.672/1920.0.1920.1032@1920.0.1920.1032" timestamp="1690592494355" />
-    <state x="2431" y="113" key="CommitChangelistDialog2" timestamp="1690604245618">
+    <state x="2431" y="113" key="CommitChangelistDialog2" timestamp="1690604371467">
       <screen x="1920" y="0" width="1920" height="1032" />
     </state>
-    <state x="2431" y="113" key="CommitChangelistDialog2/0.0.1280.672/1920.0.1920.1032@1920.0.1920.1032" timestamp="1690604245618" />
-    <state x="1984" y="163" width="1551" height="674" key="DiffContextDialog" timestamp="1690604244072">
+    <state x="2431" y="113" key="CommitChangelistDialog2/0.0.1280.672/1920.0.1920.1032@1920.0.1920.1032" timestamp="1690604371467" />
+    <state x="1984" y="163" width="1551" height="674" key="DiffContextDialog" timestamp="1690604348699">
       <screen x="1920" y="0" width="1920" height="1032" />
     </state>
-    <state x="1984" y="163" width="1551" height="674" key="DiffContextDialog/0.0.1280.672/1920.0.1920.1032@1920.0.1920.1032" timestamp="1690604244072" />
+    <state x="1984" y="163" width="1551" height="674" key="DiffContextDialog/0.0.1280.672/1920.0.1920.1032@1920.0.1920.1032" timestamp="1690604348699" />
     <state x="3000" y="302" key="FileChooserDialogImpl" timestamp="1690603783638">
       <screen x="1920" y="0" width="1920" height="1032" />
     </state>
@@ -177,10 +183,10 @@
       <screen x="1920" y="0" width="1920" height="1032" />
     </state>
     <state x="2360" y="93" key="SettingsEditor/0.0.1280.672/1920.0.1920.1032@1920.0.1920.1032" timestamp="1690603585633" />
-    <state x="2472" y="251" key="Vcs.Push.Dialog.v2" timestamp="1690603422174">
+    <state x="2472" y="251" key="Vcs.Push.Dialog.v2" timestamp="1690604385640">
       <screen x="1920" y="0" width="1920" height="1032" />
     </state>
-    <state x="2472" y="251" key="Vcs.Push.Dialog.v2/0.0.1280.672/1920.0.1920.1032@1920.0.1920.1032" timestamp="1690603422174" />
+    <state x="2472" y="251" key="Vcs.Push.Dialog.v2/0.0.1280.672/1920.0.1920.1032@1920.0.1920.1032" timestamp="1690604385640" />
     <state x="2674" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1690604258509">
       <screen x="1920" y="0" width="1920" height="1032" />
     </state>

@@ -10,6 +10,7 @@
     <modules>
         <module>argument-captor</module>
         <module>injectmocks</module>
+        <module>verify</module>
     </modules>
     <packaging>pom</packaging>
 

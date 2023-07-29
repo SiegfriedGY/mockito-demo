@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/argument-captor/argument-captor.iml" filepath="$PROJECT_DIR$/argument-captor/argument-captor.iml" />
       <module fileurl="file://$PROJECT_DIR$/injectmocks/injectmocks.iml" filepath="$PROJECT_DIR$/injectmocks/injectmocks.iml" />
       <module fileurl="file://$PROJECT_DIR$/mockito-demo.iml" filepath="$PROJECT_DIR$/mockito-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/verify/verify.iml" filepath="$PROJECT_DIR$/verify/verify.iml" />
     </modules>
   </component>
 </project>

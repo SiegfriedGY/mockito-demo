@@ -16,6 +16,7 @@ public class BookingManagerTest {
 
         verify(persisterSpy).persistToDb(capturedBooking.capture());
 
+        // get the argument being passed
         Booking capturedBookingValue = capturedBooking.getValue();
 
         assertEquals("Anthony", capturedBookingValue.getTable().getName());

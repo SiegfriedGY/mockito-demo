@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="728fa7ad-a636-42c3-a4bb-13c4c42ca4d8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/injectmocks/injectmocks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/injectmocks/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/injectmocks/src/main/java/injectmocks/CustomerOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/injectmocks/src/main/java/injectmocks/waiter/BreakfastWaiter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/injectmocks/src/main/java/injectmocks/waiter/DinnerWaiter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/injectmocks/src/test/java/injectmocks/CustomerOrderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +57,7 @@
   <component name="ProjectId" id="2TDy58JmyV6kyT0ERcGv7idE7XY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -53,6 +65,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -61,20 +74,21 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/argument-captor/pom.xml" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="injectmocks" />
       <recent name="" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.CustomerOrderTest">
     <configuration name="BookingManagerTest.addReservation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="argument-captor" />
       <option name="PACKAGE_NAME" value="" />
@@ -85,8 +99,58 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CustomerOrderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="injectmocks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="injectmocks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="injectmocks" />
+      <option name="MAIN_CLASS_NAME" value="injectmocks.CustomerOrderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerOrderTest.testServeMeatDinner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="injectmocks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="injectmocks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="injectmocks" />
+      <option name="MAIN_CLASS_NAME" value="injectmocks.CustomerOrderTest" />
+      <option name="METHOD_NAME" value="testServeMeatDinner" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerOrderTest.testServeVegetarianBreakfast" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="injectmocks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="injectmocks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="injectmocks" />
+      <option name="MAIN_CLASS_NAME" value="injectmocks.CustomerOrderTest" />
+      <option name="METHOD_NAME" value="testServeVegetarianBreakfast" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CustomerOrderTest" />
+        <item itemvalue="JUnit.CustomerOrderTest.testServeMeatDinner" />
+        <item itemvalue="JUnit.CustomerOrderTest.testServeVegetarianBreakfast" />
         <item itemvalue="JUnit.BookingManagerTest.addReservation" />
       </list>
     </recent_temporary>
@@ -104,7 +168,7 @@
       <workItem from="1690591760558" duration="2157000" />
       <workItem from="1690593958651" duration="2509000" />
       <workItem from="1690599742699" duration="2245000" />
-      <workItem from="1690604153083" duration="240000" />
+      <workItem from="1690604153083" duration="2284000" />
     </task>
     <task id="LOCAL-00001" summary="addition">
       <created>1690603373178</created>
@@ -127,54 +191,74 @@
       <option name="project" value="LOCAL" />
       <updated>1690604360585</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="addition">
+      <created>1690604399259</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1690604399259</updated>
+    </task>
+    <task id="LOCAL-00005" summary="addition">
+      <created>1690604447074</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1690604447074</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Merge branch 'master' of github.com:SiegfriedGY/mockito-demo&#10;&#10;# Conflicts:&#10;#&#9;argument-captor/target/test-classes/BookingManagerTest.class" />
     <MESSAGE value="addition" />
     <option name="LAST_COMMIT_MESSAGE" value="addition" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2472" y="177" key="#Project_Structure" timestamp="1690592170237">
+    <state x="2472" y="177" key="#Project_Structure" timestamp="1690604620076">
       <screen x="1920" y="0" width="1920" height="1032" />
     </state>
-    <state x="2472" y="177" key="#Project_Structure/0.0.1280.672/1920.0.1920.1032@1920.0.1920.1032" timestamp="1690592170237" />
-    <state x="2685" y="234" key="#com.intellij.ide.util.MemberChooser" timestamp="1690592494355">
-      <screen x="1920" y="0" width="1920" height="1032" />
+    <state x="2472" y="177" key="#Project_Structure/0.0.1280.672/1920.0.1920.1032@1920.0.1920.1032" timestamp="1690604620076" />
+    <state x="510" y="110" key="#com.intellij.ide.util.MemberChooser" timestamp="1690605669409">
+      <screen x="0" y="0" width="1280" height="672" />
     </state>
+    <state x="510" y="110" key="#com.intellij.ide.util.MemberChooser/0.0.1280.672/1920.0.1920.1032@0.0.1280.672" timestamp="1690605669409" />
     <state x="2685" y="234" key="#com.intellij.ide.util.MemberChooser/0.0.1280.672/1920.0.1920.1032@1920.0.1920.1032" timestamp="1690592494355" />
-    <state x="2431" y="113" key="CommitChangelistDialog2" timestamp="1690604371467">
+    <state x="2431" y="113" key="CommitChangelistDialog2" timestamp="1690606695769">
       <screen x="1920" y="0" width="1920" height="1032" />
     </state>
-    <state x="2431" y="113" key="CommitChangelistDialog2/0.0.1280.672/1920.0.1920.1032@1920.0.1920.1032" timestamp="1690604371467" />
-    <state x="1984" y="163" width="1551" height="674" key="DiffContextDialog" timestamp="1690604348699">
+    <state x="2431" y="113" key="CommitChangelistDialog2/0.0.1280.672/1920.0.1920.1032@1920.0.1920.1032" timestamp="1690606695769" />
+    <state x="1984" y="163" width="1551" height="674" key="DiffContextDialog" timestamp="1690606686675">
       <screen x="1920" y="0" width="1920" height="1032" />
     </state>
-    <state x="1984" y="163" width="1551" height="674" key="DiffContextDialog/0.0.1280.672/1920.0.1920.1032@1920.0.1920.1032" timestamp="1690604348699" />
+    <state x="1984" y="163" width="1551" height="674" key="DiffContextDialog/0.0.1280.672/1920.0.1920.1032@1920.0.1920.1032" timestamp="1690606686675" />
     <state x="3000" y="302" key="FileChooserDialogImpl" timestamp="1690603783638">
       <screen x="1920" y="0" width="1920" height="1032" />
     </state>
     <state x="3000" y="302" key="FileChooserDialogImpl/0.0.1280.672/1920.0.1920.1032@1920.0.1920.1032" timestamp="1690603783638" />
-    <state width="1877" height="182" key="GridCell.Tab.0.bottom" timestamp="1690604135180">
+    <state width="1877" height="144" key="GridCell.Tab.0.bottom" timestamp="1690606695785">
       <screen x="1920" y="0" width="1920" height="1032" />
     </state>
-    <state width="1877" height="182" key="GridCell.Tab.0.bottom/0.0.1280.672/1920.0.1920.1032@1920.0.1920.1032" timestamp="1690604135180" />
-    <state width="1877" height="182" key="GridCell.Tab.0.center" timestamp="1690604135180">
+    <state width="1237" height="129" key="GridCell.Tab.0.bottom/0.0.1280.672/1920.0.1920.1032@0.0.1280.672" timestamp="1690606651653" />
+    <state width="1877" height="144" key="GridCell.Tab.0.bottom/0.0.1280.672/1920.0.1920.1032@1920.0.1920.1032" timestamp="1690606695785" />
+    <state width="1877" height="144" key="GridCell.Tab.0.center" timestamp="1690606695785">
       <screen x="1920" y="0" width="1920" height="1032" />
     </state>
-    <state width="1877" height="182" key="GridCell.Tab.0.center/0.0.1280.672/1920.0.1920.1032@1920.0.1920.1032" timestamp="1690604135180" />
-    <state width="1877" height="182" key="GridCell.Tab.0.left" timestamp="1690604135180">
+    <state width="1237" height="129" key="GridCell.Tab.0.center/0.0.1280.672/1920.0.1920.1032@0.0.1280.672" timestamp="1690606651653" />
+    <state width="1877" height="144" key="GridCell.Tab.0.center/0.0.1280.672/1920.0.1920.1032@1920.0.1920.1032" timestamp="1690606695785" />
+    <state width="1877" height="144" key="GridCell.Tab.0.left" timestamp="1690606695785">
       <screen x="1920" y="0" width="1920" height="1032" />
     </state>
-    <state width="1877" height="182" key="GridCell.Tab.0.left/0.0.1280.672/1920.0.1920.1032@1920.0.1920.1032" timestamp="1690604135180" />
-    <state width="1877" height="182" key="GridCell.Tab.0.right" timestamp="1690604135180">
+    <state width="1237" height="129" key="GridCell.Tab.0.left/0.0.1280.672/1920.0.1920.1032@0.0.1280.672" timestamp="1690606651653" />
+    <state width="1877" height="144" key="GridCell.Tab.0.left/0.0.1280.672/1920.0.1920.1032@1920.0.1920.1032" timestamp="1690606695785" />
+    <state width="1877" height="144" key="GridCell.Tab.0.right" timestamp="1690606695785">
       <screen x="1920" y="0" width="1920" height="1032" />
     </state>
-    <state width="1877" height="182" key="GridCell.Tab.0.right/0.0.1280.672/1920.0.1920.1032@1920.0.1920.1032" timestamp="1690604135180" />
+    <state width="1237" height="129" key="GridCell.Tab.0.right/0.0.1280.672/1920.0.1920.1032@0.0.1280.672" timestamp="1690606651653" />
+    <state width="1877" height="144" key="GridCell.Tab.0.right/0.0.1280.672/1920.0.1920.1032@1920.0.1920.1032" timestamp="1690606695785" />
     <state x="2589" y="232" key="MultipleFileMergeDialog" timestamp="1690604261952">
       <screen x="1920" y="0" width="1920" height="1032" />
     </state>
@@ -183,21 +267,22 @@
       <screen x="1920" y="0" width="1920" height="1032" />
     </state>
     <state x="2360" y="93" key="SettingsEditor/0.0.1280.672/1920.0.1920.1032@1920.0.1920.1032" timestamp="1690603585633" />
-    <state x="2472" y="251" key="Vcs.Push.Dialog.v2" timestamp="1690604385640">
+    <state x="2472" y="251" key="Vcs.Push.Dialog.v2" timestamp="1690604453251">
       <screen x="1920" y="0" width="1920" height="1032" />
     </state>
-    <state x="2472" y="251" key="Vcs.Push.Dialog.v2/0.0.1280.672/1920.0.1920.1032@1920.0.1920.1032" timestamp="1690604385640" />
+    <state x="2472" y="251" key="Vcs.Push.Dialog.v2/0.0.1280.672/1920.0.1920.1032@1920.0.1920.1032" timestamp="1690604453251" />
     <state x="2674" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1690604258509">
       <screen x="1920" y="0" width="1920" height="1032" />
     </state>
     <state x="2674" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.672/1920.0.1920.1032@1920.0.1920.1032" timestamp="1690604258509" />
-    <state x="2651" y="233" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1690592619686">
-      <screen x="1920" y="0" width="1920" height="1032" />
+    <state x="487" y="133" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1690606069690">
+      <screen x="0" y="0" width="1280" height="672" />
     </state>
+    <state x="487" y="133" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.672/1920.0.1920.1032@0.0.1280.672" timestamp="1690606069690" />
     <state x="2651" y="233" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.672/1920.0.1920.1032@1920.0.1920.1032" timestamp="1690592619686" />
-    <state x="2254" y="219" key="new project wizard" timestamp="1690592067218">
+    <state x="2404" y="314" key="new project wizard" timestamp="1690604606100">
       <screen x="1920" y="0" width="1920" height="1032" />
     </state>
-    <state x="2254" y="219" key="new project wizard/0.0.1280.672/1920.0.1920.1032@1920.0.1920.1032" timestamp="1690592067218" />
+    <state x="2404" y="314" key="new project wizard/0.0.1280.672/1920.0.1920.1032@1920.0.1920.1032" timestamp="1690604606100" />
   </component>
 </project>

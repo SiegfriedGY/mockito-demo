@@ -8,10 +8,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="argument-captor" />
+        <module name="injectmocks" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="argument-captor" target="11" />
+      <module name="injectmocks" target="11" />
       <module name="mockito-demo" target="11" />
     </bytecodeTargetLevel>
   </component>

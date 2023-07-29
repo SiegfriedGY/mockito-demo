@@ -9,6 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>argument-captor</module>
+        <module>injectmocks</module>
     </modules>
     <packaging>pom</packaging>
 
